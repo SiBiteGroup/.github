@@ -1,4 +1,4 @@
-<img src="../assert/silbite_banner.png" style="max-width: 100%;" />
+<img src="../assert/sibite_banner.png" style="max-width: 100%;" />
 
 # About SilBite
 
